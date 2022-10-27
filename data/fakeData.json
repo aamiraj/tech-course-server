@@ -44,7 +44,7 @@
             "duration": "12 hours",
             "instructor": "Susan Smoak",
             "category_id": "1",
-            "skills":["It will take your programming skills to the next level.", "You will dominate the algorithms and data structures necessary to do well in contests.", "here are many tricks which are gained through experience and competitive programmers have a sixth sense when it comes to breaking problems down into the building blocks that make up a solution and which many are reluctant to share."],
+            "skills":["It will take your programming skills to the next level.", "You will dominate the algorithms and data structures necessary to do well in contests.", "Here are many tricks which are gained through experience and competitive programmers have a sixth sense when it comes to breaking problems down into the building blocks that make up a solution and which many are reluctant to share."],
             "description": "Learn to Prepare For Online Competitive Programming Contests Like ACM ICPC, Google CodeJam, Facebook HackerCup, and many more. Learn from highly rated and recognized competitive programmers on platforms like Codechef, LeetCode and CodeForces.",
             "image": "https://www.itfestusu.com/images/competition/competitive-programming.png"
         },

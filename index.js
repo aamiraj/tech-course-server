@@ -6,6 +6,7 @@ const cors = require("cors");
 app.use(cors());
 
 const categories = require("./data/categories.json");
+const data = require("./data/fakeData.json");
 
 app.get("/", (req, res) => {
   res.send("Server is running...");

@@ -1,0 +1,28 @@
+{
+    "categories":[
+        {
+            "id":"1",
+            "name":"Programming"
+        },
+        {
+            "id":"2",
+            "name":"Web Design"
+        },
+        {
+            "id":"3",
+            "name":"Web Development"
+        },
+        {
+            "id":"4",
+            "name":"Artifcial Intelligence"
+        },
+        {
+            "id":"5",
+            "name":"Information Technology"
+        },
+        {
+            "id":"6",
+            "name":"Robotics"
+        }
+    ]
+}

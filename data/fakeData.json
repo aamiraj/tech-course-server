@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "id": "101",
+            "courseName": "Learn Python 3",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "1",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://1.bp.blogspot.com/-VpuXMJ-UI48/YAZt9BTjEgI/AAAAAAAAE5s/fdortrB6SuQczOcpTkuyNHDSdmbjQMxfACLcBGAsYHQ/s16000/Introduction%2Bto%2BPython.jpg"
+        },
+        {
+            "id": "102",
+            "courseName": "Deep Learning",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "4",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://course.oc-static.com/courses/6532316/6532316_teaser_picture_1614872115.jpg"
+        },
+        {
+            "id": "103",
+            "courseName": "Data Structure And Algorithm",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "1",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://wallpapercave.com/wp/wp9165322.png"
+        },
+        {
+            "id": "104",
+            "courseName": "Competitive Programming",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "1",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://www.itfestusu.com/images/competition/competitive-programming.png"
+        },
+        {
+            "id": "105",
+            "courseName": "Introduction to Arduino",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "6",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://wallpaperaccess.com/full/5989966.jpg"
+        },
+        {
+            "id": "106",
+            "courseName": "Learn HTML",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "3",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://wallpaperaccess.com/full/1631871.jpg"
+        },
+        {
+            "id": "107",
+            "courseName": "Intro to Figma",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "2",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://www.idigitalpreneur.com/assets/upload/course/166582267620221015UIUX_1920x1080_copy.jpeg"
+        },
+        {
+            "id": "108",
+            "courseName": "Information and Communication Technology",
+            "type": "Beginner",
+            "lessons": "10",
+            "duration": "100 minutes",
+            "instructor": "Philliph Joe",
+            "category_id": "5",
+            "description": "This is a Python basic programming course. Here you can learn Python syntax, its variables, operators, conditions, loops and many more. With just 40 minutes you can be Python no one to a beginner one. You will be surprised that Python is one of the most popular programming language in the world. So learn it, make your way with Python 3.",
+            "image": "https://wallpaperaccess.com/full/1892752.jpg"
+        }
+    ]
+}

@@ -12,6 +12,17 @@ app.get("/categories", (req, res) => {
   res.send(categories);
 });
 
+app.get("/courses", (req, res) => {
+  res.send(data);
+});
+
+app.get("/courses/:id", (req, res) => {
+  const courses = data.courses;
+  const id = req.params.id;
+  const selectedCourse = courses.find((course) => id === course.id);
+  res.send(selectedCourse);
+});
+
 app.listen(port, () => {
   console.log(`Learning platform is app listening on port ${port}`);
 });
